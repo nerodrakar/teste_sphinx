@@ -1,0 +1,7 @@
+Meu Módulo
+==========
+
+.. automodule:: meu_modulo
+    :members:
+    :undoc-members:
+    :show-inheritance:
