@@ -32,8 +32,8 @@ language = 'pt'
 html_theme = 'furo'
 
 
+html_baseurl = 'https://nerodrakar.github.io/teste_sphinx/'
 html_static_path = ['_static']
-
 html_css_files = [
     'pydoctheme.css',  # Se você quiser forçar o CSS manualmente (geralmente não precisa)
 ]
