@@ -34,6 +34,6 @@ html_theme = 'furo'
 
 html_static_path = ['_static']
 
-def setup(app):
-    app.add_css_file('custom.css')
-
+html_css_files = [
+    'pydoctheme.css',  # Se você quiser forçar o CSS manualmente (geralmente não precisa)
+]
